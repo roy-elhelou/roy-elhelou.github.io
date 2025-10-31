@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations:. MItHRIL, Ingenuity Labs Research Institute, Queen's University /
+subtitle: Affiliations:. MItHRIL, Ingenuity Labs Research Institute, Queen's University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_5530.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info 
     <p>69 Union St</p>
     <p>Kingston, Ontario K7L 2N9</p>
 

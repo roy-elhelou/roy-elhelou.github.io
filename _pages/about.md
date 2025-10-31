@@ -8,7 +8,7 @@ profile:
   align: right
   image: IMG_5530.jpg
   image_circular: false # crops the image to make it circular
-  more_info 
+  more_info: |
     <p>69 Union St</p>
     <p>Kingston, Ontario K7L 2N9</p>
 

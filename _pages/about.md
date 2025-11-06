@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Affiliations: <a href="https://mithril.smithengineering.queensu.ca/" target="_blank">MItHRIL</a>, <a href="https://ingenuitylabs.queensu.ca/" target="_blank">Ingenuity Labs Research Institute</a>, <a href="https://www.queensu.ca/" target="_blank">Queen's University</a>
+subtitle: 'Affiliations: <a href="https://mithril.smithengineering.queensu.ca/" target="_blank">MItHRIL</a>, <a href="https://ingenuitylabs.queensu.ca/" target="_blank">Ingenuity Labs Research Institute</a>, <a href="https://www.queensu.ca/" target="_blank">Queen''s University</a>'
 
 profile:
   align: right

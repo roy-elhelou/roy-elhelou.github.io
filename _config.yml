@@ -9,7 +9,7 @@ last_name: El-Helou
 contact_note: >
   Feel free to reach out to me via email or LinkedIn. 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Project Page
+  Roy El-Helou - Masters student in robotics at Queen's University. Research focuses on robot motion generation and control for human-robot interaction, exploring expressive and socially aware robotic behaviors.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
